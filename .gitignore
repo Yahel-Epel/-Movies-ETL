@@ -3,6 +3,7 @@ config.py
 
 #Adding additional files
 test.ipynb
+ratings.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
